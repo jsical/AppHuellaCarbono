@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".InvitadoActivity"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <include
+        layout="@layout/app_bar_main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20sp"
+        android:orientation="vertical"
+        android:gravity="start">
+        
+        <TextView
+            android:id="@+id/txtGenero"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/genero"
+            android:textSize="20sp"
+            tools:ignore="TextSizeCheck" />
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <RadioButton
+                android:id="@+id/radioBM"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/masculino" />
+
+            <RadioButton
+                android:id="@+id/radioBF"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/femenino" />
+
+        </RadioGroup>
+        <TextView
+            android:id="@+id/textEstadoCivil"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/estado_civil"
+            android:textSize="20sp"/>
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <RadioButton
+                android:id="@+id/radioBSoltero"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/soltero_soltera" />
+
+            <RadioButton
+                android:id="@+id/radioBCasado"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/casado_casada" />
+
+            <RadioButton
+                android:id="@+id/radioBDivorciado"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/divorciado_divorciada" />
+
+        </RadioGroup>
+
+        <TextView
+            android:id="@+id/textEdad"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/edad"
+            android:textSize="20sp"
+            tools:ignore="TextSizeCheck" />
+
+        <EditText
+            android:id="@+id/editTextEdad"
+            android:layout_width="match_parent"
+            android:layout_height="50sp"
+            android:hint="Edad"
+            android:inputType="number" />
+
+
+        <TextView
+            android:id="@+id/txtVivienda"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/clasificaci_n_de_vivienda"
+            android:textSize="20sp"/>
+
+        <RadioGroup
+            android:id="@+id/gpVivienda"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <RadioButton
+                android:id="@+id/radioBRural"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/rural" />
+
+            <RadioButton
+                android:id="@+id/radioBUrbana"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Urbana"/>
+
+        </RadioGroup>
+
+        <Button
+            android:id="@+id/botonDatos"
+            android:layout_width="match_parent"
+            android:layout_height="65sp"
+            android:text="@string/continuar"
+            android:textColor="@color/White"
+            tools:ignore="TextContrastCheck" />
+
+        <Button
+            android:id="@+id/botonCerrarSesion"
+            android:layout_width="match_parent"
+            android:layout_height="65sp"
+            android:text="@string/cerrar_sesion"
+            android:textColor="@color/White"
+            tools:ignore="TextContrastCheck" />
+
+    </LinearLayout>
+
+    </ScrollView>
+
+
+
+</LinearLayout>

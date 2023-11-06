@@ -1,0 +1,11 @@
+google: <a href="https://www.flaticon.es/iconos-gratis/google" title="google iconos">Google iconos creados por Freepik - Flaticon</a>
+
+microsoft:<a href="https://www.flaticon.es/iconos-gratis/microsoft" title="microsoft iconos">Microsoft iconos creados por Pixel perfect - Flaticon</a>
+
+correo-electronico: <a href="https://www.flaticon.es/iconos-gratis/salvar" title="salvar iconos">Salvar iconos creados por Freepik - Flaticon</a>
+
+guardar: <a href="https://www.flaticon.es/iconos-gratis/salvar" title="salvar iconos">Salvar iconos creados por Freepik - Flaticon</a>
+
+cancelar: <a href="https://www.flaticon.es/iconos-gratis/cancelar" title="cancelar iconos">Cancelar iconos creados por bsd - Flaticon</a>
+
+	

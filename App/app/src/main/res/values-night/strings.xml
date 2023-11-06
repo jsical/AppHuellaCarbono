@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cerrar_sesion">Cerrar Sesion</string>
+    <string name="continuar">Continuar</string>
+    <string name="ingrese_edad">Ingrese Edad</string>
+    <string name="casado_casada">Casado/Casada</string>
+    <string name="divorciado_divorciada">Divorciado/Divorciada</string>
+    <string name="femenino">Femenino</string>
+    <string name="masculino">Masculino</string>
+    <string name="rural">Rural</string>
+    <string name="soltero_soltera">Soltero/Soltera</string>
+    <string name="edad">Edad</string>
+    <string name="estado_civil">Estado Civil</string>
+    <string name="genero">Genero</string>
+    <string name="clasificaci_n_de_vivienda">Clasificación de Vivienda</string>
+</resources>

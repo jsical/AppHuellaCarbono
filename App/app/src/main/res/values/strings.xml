@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Aplicación Huella de Carbono</string>
+    <string name="buttonText">Ingresar como invitado</string>
+    <string name="prefs_file">apphuellacarbono.PREFERENCE_FILE_KEY</string>
+    <string name="textoInicio">La reducción en nuestra huella de carbono es parte del granito de arena para que el planeta esté mejor!</string>
+    <string name="open_nav">Open</string>
+    <string name="close_nav">Close</string>
+    <string name="cerrar_sesion">Cerrar Sesion</string>
+    <string name="continuar">Continuar</string>
+    <string name="ingrese_edad">Ingrese Edad</string>
+    <string name="casado_casada">Casado/Casada</string>
+    <string name="divorciado_divorciada">Divorciado/Divorciada</string>
+    <string name="femenino">Femenino</string>
+    <string name="masculino">Masculino</string>
+    <string name="rural">Rural</string>
+    <string name="soltero_soltera">Soltero/Soltera</string>
+    <string name="edad">Edad</string>
+    <string name="estado_civil">Estado Civil</string>
+    <string name="genero">Genero</string>
+    <string name="clasificaci_n_de_vivienda">Clasificación de Vivienda</string>
+</resources>

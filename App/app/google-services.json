@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "996731495275",
+    "project_id": "proyectojeyson",
+    "storage_bucket": "proyectojeyson.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996731495275:android:3f3b89772d70208084622e",
+        "android_client_info": {
+          "package_name": "com.jeysonChinchilla.HuelladeCarbono"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996731495275-p7rp61utt4hjccqoqfectgp5l2vkl1vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKpdCFrk2Iu_QptpBNfaMUwMxr8a7mdmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996731495275-h4bq3sg3priloru17a6fhhobhar0lj65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

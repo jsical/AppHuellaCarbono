@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--     Base nombre de colores https://htmlcolorcodes.com/es/nombres-de-los-colores/  -->
+    <color name="DarkGreen">#006400</color>
+    <color name="ForestGreen">#228B22</color>
+    <color name="SeaGreen">#2E8B57</color>
+    <color name="MediumAquamarine">#66CDAA</color>
+    <color name="LightSeaGreen">#20B2AA</color>
+    <color name="Teal">#008080</color>
+    <color name="Black">#000000</color>
+    <color name="White">#FFFFFF</color>
+</resources>
